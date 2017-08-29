@@ -29,7 +29,7 @@ author:
   fullname                  : Doctor Deep
   rss                       : true # generate RSS feed and show it's icon in header
   mail                      : doctordeep@mail.com # change to your e-mail address
-  twitter                   : twitter-user-name
+  twitter                   : doctordeep
   github                    : doctordeep
   youtube                   : youtube-user-name
   stackoverflow             : stackoverflow-user-name
@@ -47,6 +47,14 @@ author:
 gems:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-admin
+  - jekyll-mentions
+  
+# Jekyll mention base_url
+jekyll-mentions:
+  base_url: https://twitter.com
+  
+  
 
 # Permalinks
 permalink                    : posts/:slug
