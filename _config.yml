@@ -26,11 +26,11 @@ blog:
 
 # Author info
 author:
-  fullname                  : Your Name
+  fullname                  : Doctor Deep
   rss                       : true # generate RSS feed and show it's icon in header
-  mail                      : your@email.com # change to your e-mail address
+  mail                      : doctordeep@mail.com # change to your e-mail address
   twitter                   : twitter-user-name
-  github                    : github-user-name
+  github                    : doctordeep
   youtube                   : youtube-user-name
   stackoverflow             : stackoverflow-user-name
   disqus                    : # your_disqus_forum_shortname
