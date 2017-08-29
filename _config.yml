@@ -5,7 +5,7 @@ url                          : "" # the base hostname & protocol for your site
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
-  title                      : DeepDoc
+  title                      : deepdoc
   description                  : >
                                Pentesting tutorials crafted with care. doctordeep@mail.com
 
