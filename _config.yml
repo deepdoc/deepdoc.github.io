@@ -46,14 +46,7 @@ author:
 # Gems
 gems:
   - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-admin
-  - jekyll-mentions
-  
-# Jekyll mention base_url
-jekyll-mentions:
-  base_url: https://twitter.com
-  
+  - jekyll-sitemap 
   
 
 # Permalinks
