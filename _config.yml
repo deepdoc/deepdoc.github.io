@@ -5,9 +5,9 @@ url                          : "" # the base hostname & protocol for your site
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
-  title                      : dactl
+  title                      : DeepDoc
   description                  : >
-                               this should contain a proper description
+                               Pentesting tutorials crafted with care. doctordeep@mail.com
 
 # Layout configuration
   logo_path                  : "assets/img/dactl.svg" # path to logo file
